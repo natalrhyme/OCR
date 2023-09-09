@@ -1,4 +1,3 @@
-able to detect letters from an image 
 ''' Page segmentation modes:
 8 Orientation and script detection (OSD) only.
 1 Automatic page segmentation with OSD.
